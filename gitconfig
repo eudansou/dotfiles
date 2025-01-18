@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 154715992+eudansou@users.noreply.github.com
+	name = Danilo Alexandre
